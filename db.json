@@ -1,0 +1,26 @@
+{
+  "projectsdetail": [
+    { "id": 1,
+    "judul": "A Space For The Unbound",
+    "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, Nonea! Maiores et perferendis eaque, exercitationem praesentium nihil.",
+    "gambar" : "header-slider-asftu.png",
+    "video" : "https://www.youtube.com/embed/YyuxULWF58U?si=E49rYwPSyxy2nB2a"
+    },
+    { "id": 2,
+    "judul": "Coffee Talk",
+    "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, Nonea! Maiores et perferendis eaque, exercitationem praesentium nihil. T",
+    "gambar" : "header-slider-coffee.png"
+    },
+    { "id": 3,
+    "judul": "Necronator: Dead Wrong",
+    "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, Nonea! Maiores et perferendis eaque, exercitationem praesentium nihil. S",
+    "gambar" : "header-slider-necro.png"
+    }
+  ],
+  "landing": [
+    {
+      
+    }
+  ]
+
+}
